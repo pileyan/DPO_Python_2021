@@ -37,7 +37,7 @@
 Если файл .ipynb сохраняется как текст или с лишним расширением (например, .txt), то нужно выбрать при сохранении тип файла все файлы, 
 а не текст, или после сохранения убрать вручную расширение, переименовав файл.
 
-Подробнее про работу с GitHub через клиента можно прочитать [здесь](https://github.com/pileyan/DPO_2020_autumn/blob/master/lect1/2020_DPO_1_0_git.ipynb)
+Подробнее про работу с GitHub через клиента можно прочитать [здесь](https://github.com/pileyan/DPO_Python_2021/blob/main/lect01_git_basic_types/2021_DPO_1_0_git.ipynb)
 
 А еще очень рекомендую посмотреть [вот эту ссылку](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 Здесь в одной статье рассказана бОльшая часть того, что нужно знать про Git.
