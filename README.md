@@ -32,7 +32,7 @@
 ## Куда сдавать задания и в какие сроки
 ### ДЗ нужно сдавать в виде .ipynb-ноутбуков с решениями. Название должно быть ФамилияИнициалы.ipynb
 
-**[ДЗ1](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw1.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/Gj6dLZHNcuATy8GlAfoB) до **2021-02-21 включительно**
+**[ДЗ1](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw1.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/Gj6dLZHNcuATy8GlAfoB) до **2021-02-21 включительно** \
 Комментарий: в последней задаче надо использовать "цикл", хоть мы это сходу еще и не проходили :) предлагаю глянуть [сюда](https://github.com/pileyan/DPO_Python_2021/blob/main/lect02_complex_types_if_else/2021_DPO_2_4_If_Else.ipynb) - эта информация вам поможет
 
 
