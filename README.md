@@ -15,6 +15,9 @@
 2 занятие (13.02.2021) 
 [Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect02_complex_types_if_else)
 
+3 занятие (18.02.2021) 
+[Регулярные выражения](https://github.com/pileyan/DPO_Python_2021/tree/main/lect03_regexp)
+
 ## Формы контроля
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
 
@@ -35,6 +38,7 @@
 **[ДЗ1](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw1.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/Gj6dLZHNcuATy8GlAfoB) до **2021-02-21 включительно** \
 Комментарий: в последней задаче надо использовать "цикл", хоть мы это сходу еще и не проходили :) предлагаю глянуть [сюда](https://github.com/pileyan/DPO_Python_2021/blob/main/lect02_complex_types_if_else/2021_DPO_2_4_If_Else.ipynb) - эта информация вам поможет
 
+**[ДЗ2](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw1.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/qFSmZL8F355Msq3tYKlW) до **2021-02-25 включительно**
 
 ## Как работать с Github?
 Для скачивания файлов с Github необязательно иметь аккаунт, достаточно кликнуть на зеленую кнопку Clone or download в правом верхнем углу, выбрать Download ZIP и распаковать архив. В папке DPO_2020_autumn будут все файлы, загруженные на Github на момент скачивания.
