@@ -10,17 +10,21 @@
 ## Блок 1. Python
 
 1 занятие (11.02.2021)  
-[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование]\n(https://github.com/pileyan/DPO_Python_2021/tree/main/lect01_git_basic_types)
+[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование]
+(https://github.com/pileyan/DPO_Python_2021/tree/main/lect01_git_basic_types)
 
 2 занятие (13.02.2021) 
-[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect02_complex_types_if_else)
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.]
+(https://github.com/pileyan/DPO_Python_2021/tree/main/lect02_complex_types_if_else)
 
 3 занятие (18.02.2021) 
-[Регулярные выражения](https://github.com/pileyan/DPO_Python_2021/tree/main/lect03_regexp)
+[Регулярные выражения]
+(https://github.com/pileyan/DPO_Python_2021/tree/main/lect03_regexp)
 
 4 занятие (25.02.2021)
 [Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения.
-Итераторы, генераторы списков.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect04_for)
+Итераторы, генераторы списков.]
+(https://github.com/pileyan/DPO_Python_2021/tree/main/lect04_for)
 
 ## Формы контроля
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
