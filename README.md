@@ -9,14 +9,17 @@
 
 ## Блок 1. Python
 
-1 занятие (11.02.2021)  
+1 занятие (11.02.2021)
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_2021/tree/main/lect01_git_basic_types)
 
-2 занятие (13.02.2021) 
+2 занятие (13.02.2021)
 [Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect02_complex_types_if_else)
 
-3 занятие (18.02.2021) 
+3 занятие (18.02.2021)
 [Регулярные выражения](https://github.com/pileyan/DPO_Python_2021/tree/main/lect03_regexp)
+
+4 занятие (25.02.2021)
+[Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения.Итераторы, генераторы списков.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect04_for)
 
 ## Формы контроля
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
@@ -39,6 +42,8 @@
 Комментарий: в последней задаче надо использовать "цикл", хоть мы это сходу еще и не проходили :) предлагаю глянуть [сюда](https://github.com/pileyan/DPO_Python_2021/blob/main/lect02_complex_types_if_else/2021_DPO_2_4_If_Else.ipynb) - эта информация вам поможет
 
 **[ДЗ2](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw1.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/qFSmZL8F355Msq3tYKlW) до **2021-02-25 включительно**
+
+**[ДЗ3](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw3.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/94zVT5fbWFuvpefweZo9) до **2021-03-05 включительно**
 
 ## Как работать с Github?
 Для скачивания файлов с Github необязательно иметь аккаунт, достаточно кликнуть на зеленую кнопку Clone or download в правом верхнем углу, выбрать Download ZIP и распаковать архив. В папке DPO_2020_autumn будут все файлы, загруженные на Github на момент скачивания.
