@@ -1,4 +1,0 @@
-Hello, world!
- Is this an african swallow?
- Or an european swallow?
-And another string
