@@ -27,6 +27,14 @@
 6 занятие (04.03.2021)
 [O-нотация. Работа с файлами: чтение и запись.](https://github.com/pileyan/DPO_Python_2021/tree/master/lect06_O_notation)
 
+7 занятие (11.03.2021)
+[Файлы. Парсинг информации из интернета 1 часть BeautifulSoup](https://github.com/pileyan/DPO_Python_2021/tree/main/lect07_Files_Parsing_v1%20(by%20A.Maximovskaya))
+
+8 занятие (13.03.2021)
+[Парсинг информации из интернета 2 часть BeautifulSoup](https://github.com/pileyan/DPO_Python_2021/tree/main/lect08_Parsing_v2)
+
+
+
 ## Формы контроля
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
 
