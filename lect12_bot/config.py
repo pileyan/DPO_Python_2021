@@ -1,6 +1,6 @@
 from enum import Enum
 
-token = '' #Вставить сюда токен
+token = '1796520970:AAG1Dy1KP0k9tR37PgpAeHH18rhfqCn50WU' #Вставить сюда токен
 db_file = 'database.vdb'
 
 
