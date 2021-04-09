@@ -59,6 +59,16 @@
 
 **[ДЗ3](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw3.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/94zVT5fbWFuvpefweZo9) до **2021-03-05 включительно**
 
+**[ДЗ4](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw4.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/Gv3EOcmbZtrVJSMytOHn)
+
+**[ДЗ6](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw6.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/P24LWSSVzq54JRbnOwuQ)
+
+**[ДЗ7](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw7.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/EG9I0wVWALUeCR6T5OF8)
+
+**[ДЗ8](https://github.com/pileyan/DPO_Python_2021/blob/main/Homework/hw8.ipynb)** - сдавать [сюда](https://www.dropbox.com/request/Dlo1UT5JLEkFxedfjuGq)
+
+
+
 ## Как работать с Github?
 Для скачивания файлов с Github необязательно иметь аккаунт, достаточно кликнуть на зеленую кнопку Clone or download в правом верхнем углу, выбрать Download ZIP и распаковать архив. В папке DPO_2020_autumn будут все файлы, загруженные на Github на момент скачивания.
 
